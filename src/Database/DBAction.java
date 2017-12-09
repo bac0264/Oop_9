@@ -174,7 +174,6 @@ public class DBAction {
             ResultSet rs;
             rs = ptmt.executeQuery();
             rs.next();
-            int x = rs.getInt("mssv");
             csd1.setIdStu(rs.getInt("mssv"));
             csd1.setNameStu(rs.getString("hoten"));
             csd1.setAddresStu(rs.getString("quequan"));

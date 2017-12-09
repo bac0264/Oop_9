@@ -266,8 +266,6 @@ public class Admin_addPoint extends javax.swing.JPanel {
 
     private void btnUpdateActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnUpdateActionPerformed
         // TODO add your handling code here:
-        //  double diemTB = getDiemTB(ipDiemQT, ipDiemCK);
-        //  int mssv = Integer.parseInt(lableSinhVien.getText());
         int idlop = Integer.parseInt(labelLop.getText());
         DBAction.updateAtAdmin(subj,ar, idlop, hesogiuaky, hesocuoiky);
         JOptionPane.showMessageDialog(null, "Update thành công", "Thành công", JOptionPane.INFORMATION_MESSAGE);

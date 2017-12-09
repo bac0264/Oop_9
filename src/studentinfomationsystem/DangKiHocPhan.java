@@ -45,7 +45,7 @@ public class DangKiHocPhan extends javax.swing.JPanel {
     private boolean check = false;
     private DefaultTableModel modeltable_2 = new DefaultTableModel();
     private DefaultTableModel modeltable_1 = new DefaultTableModel();
-    private final int size = 20; // số đối tượng môn max
+    private final int size = 30; // số đối tượng môn max
     private static String idSubj_global = null;
     private static CreditStudent cr = new CreditStudent();
 
