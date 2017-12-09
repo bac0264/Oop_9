@@ -18,7 +18,6 @@ import javax.swing.JOptionPane;
 import javax.swing.JTable;
 import javax.swing.table.DefaultTableModel;
 import javax.swing.table.TableColumn;
-import studentinfomationclass.SignUp;
 import studentinfomationclass.Subject;
 
 /**

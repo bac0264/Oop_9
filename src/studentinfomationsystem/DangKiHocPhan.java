@@ -25,7 +25,6 @@ import studentinfomationclass.AYearStudent;
 import studentinfomationclass.Class_;
 import studentinfomationclass.CreditStudent;
 import studentinfomationclass.Department;
-import studentinfomationclass.SignUp;
 import studentinfomationclass.Student;
 import studentinfomationclass.Subject;
 import studentinfomationclass.Teacher;

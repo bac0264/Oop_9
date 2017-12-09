@@ -19,7 +19,6 @@ import java.util.Vector;
 import javax.swing.JOptionPane;
 import studentinfomationclass.Class_;
 import studentinfomationclass.CreditStudent;
-import studentinfomationclass.SignUp;
 import Database.DBConnection;
 import studentinfomationclass.Subject;
 

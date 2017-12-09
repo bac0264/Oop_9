@@ -9,7 +9,6 @@ import Database.DBAction;
 import java.util.ArrayList;
 import studentinfomationclass.Class_;
 import studentinfomationclass.Department;
-import studentinfomationclass.SignUp;
 import studentinfomationclass.Subject;
 import studentinfomationsystem.LoginFrame;
 
